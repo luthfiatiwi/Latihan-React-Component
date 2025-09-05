@@ -1,3 +1,4 @@
+import CTA from "./components/sections/CTA";
 import Features from "./components/sections/Features";
 import Header from "./components/sections/Header";
 import Hero from "./components/sections/Hero";
@@ -10,6 +11,7 @@ export default function App() {
       <Hero />
       <Header />
       <Features />
+      <CTA />
     </section>
   );
 }
