@@ -1,21 +1,11 @@
-
-import Header from "./components/sections/Header";
-import Features from "./components/sections/Features";
+import Hero from "./components/sections/Hero";
+import Navbar from "./components/sections/Navbar";
 
 export default function App() {
   return (
     <section>
-      {/* header */}
-      <Header />
-
-      {/* features */}
-
-
-      {/* hero */}
-
-      {/* CTA */}
-
-      {/* footer */}
+      <Navbar />
+      <Hero />
     </section>
   );
 }
