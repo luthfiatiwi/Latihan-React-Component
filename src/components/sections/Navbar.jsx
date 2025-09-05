@@ -5,7 +5,7 @@ export default function Navbar() {
         <nav className="bg-white p-4">
             <div className="container mx-auto flex justify-between items-center">
                 <div className="flex items-center space-x-2">
-                    <img src="https://placehold.co/32x32" alt="Nexcent Logo" className="h-8" />
+                    <img src="https://faheemonhub.github.io/Nexcent-Figma/assets/Icon.svg" alt="Nexcent Logo" className="h-8" />
                     <span className="text-xl font-bold">Nexcent</span>
                 </div>
                 <div className="hidden md:flex space-x-6 items-center">

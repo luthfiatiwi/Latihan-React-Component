@@ -4,7 +4,7 @@ export default function Footer() {
             <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
                 <div>
                     <div className="flex items-center space-x-2 mb-4">
-                        <img src="https://placehold.co/32x32" alt="Nexcent Logo" className="h-8 filter invert" />
+                        <img src="https://faheemonhub.github.io/Nexcent-Figma/assets/Icon.svg" alt="Nexcent Logo" className="h-8" />
                         <span className="text-xl font-bold">Nexcent</span>
                     </div>
                     <p className="text-sm">&copy; 2023 Nexcent Ltd. <br /> All rights reserved.</p>

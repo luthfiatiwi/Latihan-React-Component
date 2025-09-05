@@ -14,7 +14,7 @@ export default function Hero() {
                     <Button className="bg-green-500 text-white px-6 py-3 rounded-md font-semibold hover:bg-green-600">Register</Button>
                 </div>
                 <div className="md:w-1/2">
-                    <img src="https://placehold.co/600x400" alt="Illustration" className="w-full h-auto max-w-xl mx-auto" />
+                    <img src="https://faheemonhub.github.io/Nexcent-Figma/assets/Illustration.svg" alt="Illustration" className="w-full h-auto max-w-xl mx-auto" />
                 </div>
             </div>
         </section>
