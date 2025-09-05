@@ -1,3 +1,5 @@
+import Features from "./components/sections/Features";
+import Header from "./components/sections/Header";
 import Hero from "./components/sections/Hero";
 import Navbar from "./components/sections/Navbar";
 
@@ -6,6 +8,8 @@ export default function App() {
     <section>
       <Navbar />
       <Hero />
+      <Header />
+      <Features />
     </section>
   );
 }
